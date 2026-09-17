@@ -6,7 +6,7 @@ airbnb:
       user: dbt
 
       role: TRANSFORM
-      private_key_path: "/home/nikola/.ssh/rsa_key.p8"
+      private_key_path: "/home/nikola/.ssh/rsa_key_enc.p8"
       private_key_passphrase: q
 
       database: AIRBNB
